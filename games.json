@@ -6,5 +6,5 @@
   { 'id' : 4, 'user_id': 1,'kills': 6, 'deaths' : 5, 'assist' : 1, 'items' : [3,2,1], 'result' : '1'},
   { 'id' : 5, 'user_id': 1,'kills': 3, 'deaths' : 4, 'assist' : 10, 'items' : [3,2,1], 'result' : '1'},
   { 'id' : 6, 'user_id': 1,'kills': 7, 'deaths' : 3, 'assist' : 12, 'items' : [0,2,1], 'result' : '1'},
-  { 'id' : 6, 'user_id': 0,'kills': 7, 'deaths' : 3, 'assist' : 12, 'items' : [0,2,1], 'result' : '1'}
+  { 'id' : 7, 'user_id': 0,'kills': 7, 'deaths' : 3, 'assist' : 12, 'items' : [0,2,1], 'result' : '1'}
 ]
