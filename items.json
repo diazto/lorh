@@ -1,5 +1,5 @@
 [
-  {'id' : 0, 'name' : 'Seta', 'description':'Vas a tope con la cope'}
+  {'id' : 0, 'name' : 'Seta', 'description':'Vas a tope con la cope'},
   {'id' : 1, 'name' : 'Porro', 'description':'Vas flying'},
   {'id' : 2, 'name' : 'Grafica', 'description':'Por fin ha llegado'}
 ]
