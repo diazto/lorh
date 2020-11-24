@@ -1,5 +1,8 @@
 [
   {'id' : 0, 'name' : 'Seta', 'description':'Vas a tope con la cope'},
   {'id' : 1, 'name' : 'Porro', 'description':'Vas flying'},
-  {'id' : 2, 'name' : 'Grafica', 'description':'Por fin ha llegado'}
+  {'id' : 2, 'name' : 'Grafica', 'description':'Por fin ha llegado'},
+  {'id' : 3, 'name' : 'Prueba', 'description':'No hay mucho que decir'},
+  {'id' : 4, 'name' : 'Grial', 'description':'Que pasa brooo?'}
+  
 ]
