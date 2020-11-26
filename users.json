@@ -5,5 +5,5 @@
   {'id' : 3, 'username' : 'winxuber', 'email' : 'win@test.es', 'rank' : 'silver' },
   {'id' : 4, 'username' : 'f0cus', 'email' : 'foc@test.es', 'rank' : 'silver' },
   {'id' : 5, 'username' : 'elpakinajose', 'email' : 'elpak@test.es', 'rank' : 'silver' },
-  {'id' : 6, 'username' : 'elsone015', 'email' : 'sone@test.es', 'gold' : 'gold' }
+  {'id' : 6, 'username' : 'elsone015', 'email' : 'sone@test.es', 'rank' : 'gold' }
 ]
