@@ -1,7 +1,7 @@
 [
   {'id' : 0, 'username' : 'test0123', 'email' : 'test@test.es', 'rank': 'diamond'},
   {'id' : 1, 'username' : 'carlosdt', 'email' : 'jt@test.es', 'rank' : 'gold' },
-  {'id' : 2, 'username' : 'Ofisix', 'email' : 'ofi@test.es', 'rank' : 'silver' },
+  {'id' : 2, 'username' : 'ofisix', 'email' : 'ofi@test.es', 'rank' : 'silver' },
   {'id' : 3, 'username' : 'winxuber', 'email' : 'win@test.es', 'rank' : 'silver' },
   {'id' : 4, 'username' : 'f0cus', 'email' : 'foc@test.es', 'rank' : 'silver' },
   {'id' : 5, 'username' : 'elpakinajose', 'email' : 'elpak@test.es', 'rank' : 'silver' },
